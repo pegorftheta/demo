@@ -1,3 +1,0 @@
-[submodule "libdemo"]
-	path = libdemo
-	url = git@github.com:pegorftheta/libdemo.git
